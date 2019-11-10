@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Unsubscribe For YouTube</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Channel Title</string>
+    <string name="nav_header_subtitle">Channel Description</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="title_activity_unsubscribe_all">UnsubscribeAll</string>
+    <string name="unsubs">Unsubscribe</string>
+    <string name="preference_file_key">donateKey</string>
+    <string name="channel_id">channel_id</string>
+    <string name="share_via">Share Via</string>
+    <string name="ok_bt">OK</string>
+    <string name="donate_us">Donate Us!</string>
+    <string name="share_text">Unsubscribe Unwanted Channels Now From Youtube By One Click..\n</string>
+    <string name="download_now">Download Now!\n</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.sanshy.unsubscribeall</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="feedback_request">Send Us Feedback that want you in this app…\n</string>
+    <string name="close_bt">Close</string>
+    <string name="whats_app_contact">WhatsApp Number : +918239199344</string>
+    <string name="instagram_id">Instagram id : @shyamswamibihari</string>
+    <string name="reset_title">Reset App!</string>
+    <string name="reset_msg_">All Data Will Be Cleared and App Will Closed.</string>
+    <string name="unsubscribe_all">Unsubscribe All</string>
+    <string name="install_pro_">Install Pro</string>
+
+
+    <string name="r1">ca-app-pub-2563796576069532/3748910658</string>
+    <string name="r2">ca-app-pub-2563796576069532/7257744978</string>
+    <string name="r3">ca-app-pub-2563796576069532/6408408175</string>
+    <string name="r4">ca-app-pub-2563796576069532/8926049867</string>
+
+    <string name="i1">ca-app-pub-2563796576069532/3399101453</string>
+    <string name="i2">ca-app-pub-2563796576069532/5642121417</string>
+    <string name="i3">ca-app-pub-2563796576069532/6655109744</string>
+    <string name="i4">ca-app-pub-2563796576069532/9828067997</string>
+    <string name="i5">ca-app-pub-2563796576069532/1183291213</string>
+    <string name="i6">ca-app-pub-2563796576069532/6463538052</string>
+    <string name="i7">ca-app-pub-2563796576069532/4164677771</string>
+
+    <string name="reward_video_dialog_title">Watch Video!</string>
+    <string name="reward_video_request">To Unsubscribe all in one page you need to watch the video.</string>
+    <string name="unsubscribe_name">Unsubscribe!</string>
+    <string name="pro_request_msg">You Will Unsubscribe all belongs to only this Page</string>
+    <string name="pro_request_msg_2">For Unsubscribe All From Your Channel, You Have to Donate. $1.99</string>
+    <string name="unsubscribe_process_dialog">Unsubscribe Processing…</string>
+    <string name="fatching_list_dialog">Fetching List…</string>
+    <string name="calling_youtube_api_dialog">Calling YouTube Data API …</string>
+    <string name="unsubscribe_all_button">Unsubscribe All : </string>
+    <string name="page_number_toast">Page Number :</string>
+    <string name="device_id">RCKMPEC50040424</string>
+    <string name="no_list_found">No List Found.</string>
+    <string name="database_unsubscribe_key">Unsubscribe Count</string>
+    <string name="donate_key">Donate Key</string>
+    <string name="donate_desc_key">Donate Description</string>
+    <string name="donate_pic_key">donate pic</string>
+    <string name="donator">donator</string>
+    <string name="donated_list_key">Donated List</string>
+    <string name="restart_request">Please Restart App!</string>
+    <string name="sure_text">Sure!</string>
+    <string name="clear_all_warning_">Are Sure You Want To clear All Subscriber From Your YouTube Account.</string>
+    <string name="this_page_text_">This Page</string>
+    <string name="unsubscribe_done">All Unsubscribe Done!</string>
+
+    <string name="unsubscribe_home">Unsubscribe Home</string>
+    <string name="reset_now">Reset Now</string>
+    <string name="coming_soon">Coming Soon…</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="donate">Donate</string>
+
+</resources>

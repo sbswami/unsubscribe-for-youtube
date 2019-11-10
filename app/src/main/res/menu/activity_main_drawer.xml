@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_unsubscribe"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/unsubscribe_home" />
+        <item
+            android:id="@+id/nav_reset"
+            android:icon="@drawable/ic_clear_all_black_24dp"
+            android:title="@string/reset_now" />
+        <item
+            android:id="@+id/nav_coming_soon"
+            android:icon="@drawable/ic_new_releases_black_24dp"
+            android:title="@string/coming_soon" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+</menu>

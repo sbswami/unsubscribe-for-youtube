@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unsubscribe+</string>
+    <string name="unsubscribe_done">सभी की सदस्यता रद्द हो गयी है</string>
+    <string name="this_page_text_">यह पेज</string>
+    <string name="clear_all_warning_">निश्चित रूप से आप अपने YouTube खाते से सभी सब्सक्राइबर को साफ़ करना चाहते हैं।</string>
+    <string name="sure_text">ज़रूर!</string>
+    <string name="restart_request">कृपया ऐप पुनरारंभ करें!</string>
+    <string name="no_list_found">कोई सूची नहीं मिली</string>
+    <string name="page_number_toast">पृष्ठ संख्या :</string>
+    <string name="unsubscribe_all_button">सभी सदस्यता छोड़ें:</string>
+    <string name="calling_youtube_api_dialog">यूट्यूब डेटा एपीआई कॉल कर रहा है …</string>
+    <string name="fatching_list_dialog">सूची ला रहा है …</string>
+    <string name="unsubscribe_process_dialog">सदस्यता रद्द करें …</string>
+    <string name="pro_request_msg_2">अपने चैनल से सभी सदस्यता छोड़ने के लिए, आपको दान करना होगा। $ 1.99  या 125 रूपये Paytm नंबर 8239199344</string>
+    <string name="pro_request_msg">आप सदस्यता छोड़ देंगे सभी केवल इस पृष्ठ से संबंधित हैं</string>
+    <string name="unsubscribe_name">सदस्यता रद्द करें!</string>
+    <string name="reward_video_request">सभी को एक पृष्ठ में सदस्यता छोड़ने के लिए आपको वीडियो देखना होगा।</string>
+    <string name="reward_video_dialog_title">वीडियो देखें!</string>
+    <string name="install_pro_">Install Pro</string>
+    <string name="unsubscribe_all">सभी सदस्यता छोड़ें</string>
+    <string name="reset_msg_">सभी डेटा साफ़ हो जाएगा और ऐप बंद हो जाएगा।</string>
+    <string name="reset_title">ऐप रीसेट करें!</string>
+    <string name="close_bt">बंद करे</string>
+    <string name="feedback_request">हमें प्रतिक्रिया भेजें जो आपको इस ऐप में चाहता है \n</string>
+    <string name="send_feedback">प्रतिक्रिया भेजें</string>
+    <string name="download_now">अभी डाउनलोड करो!\n</string>
+    <string name="share_text">एक क्लिक से यूट्यूब से अब अनचाहे चैनल अनसब्सक्राइब करें।\n</string>
+    <string name="donate_us">हमें दान करें!</string>
+    <string name="ok_bt">ठीक</string>
+    <string name="action_settings">साइन आउट</string>
+    <string name="nav_header_subtitle">चैनल विवरण</string>
+    <string name="nav_header_title">चैनल शीर्षक</string>
+    <string name="bank_name">"Bank Name : Union Bank of India \n"</string>
+    <string name="ac_holder_name">"A/c Holder Name : Shyam Bihari Swami\n"</string>
+    <string name="ac_number">A / c No.: 309902010109420\n</string>
+    <string name="ifsc_code">"IFSC : UBIN0530999 \n"</string>
+    <string name="swift_code">"Swift Code : SBININBBOJP \n"</string>
+    <string name="share_via">के माध्यम से बाँटे</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_unsubscribe_all">UnsubscribeAll</string>
+    <string name="unsubs">Unsubscribe</string>
+    <string name="preference_file_key">donateKey</string>
+    <string name="channel_id">channel_id</string>
+    <string name="whats_app_contact">WhatsApp Number : +918239199344</string>
+    <string name="instagram_id">Instagram id : @shyamswamibihari</string>
+
+    <string name="r1">ca-app-pub-2563796576069532/3748910658</string>
+    <string name="r2">ca-app-pub-2563796576069532/7257744978</string>
+    <string name="r3">ca-app-pub-2563796576069532/6408408175</string>
+    <string name="r4">ca-app-pub-2563796576069532/8926049867</string>
+
+    <string name="i1">ca-app-pub-2563796576069532/3399101453</string>
+    <string name="i2">ca-app-pub-2563796576069532/5642121417</string>
+    <string name="i3">ca-app-pub-2563796576069532/6655109744</string>
+    <string name="i4">ca-app-pub-2563796576069532/9828067997</string>
+    <string name="i5">ca-app-pub-2563796576069532/1183291213</string>
+    <string name="i6">ca-app-pub-2563796576069532/6463538052</string>
+    <string name="i7">ca-app-pub-2563796576069532/4164677771</string>
+
+    <string name="device_id">RCKMPEC50040424</string>
+    <string name="database_unsubscribe_key">Unsubscribe Count</string>
+    <string name="donate_key">Donate Key</string>
+    <string name="donate_desc_key">Donate Description</string>
+    <string name="donate_pic_key">donate pic</string>
+    <string name="donator">donator</string>
+    <string name="donated_list_key">Donated List</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.sanshy.unsubscribeall</string>
+    <string name="unsubscribe_home">होम सदस्यता छोड़ें</string>
+    <string name="coming_soon">जल्द आ रहा है…</string>
+    <string name="communicate">संवाद</string>
+    <string name="share">शेयर</string>
+    <string name="donate">दान करना</string>
+    <string name="reset_now">अभी रीसेट करें</string>
+
+
+</resources>

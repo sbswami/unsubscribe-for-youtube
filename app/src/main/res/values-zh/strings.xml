@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unsubscribe+</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_unsubscribe_all">UnsubscribeAll</string>
+    <string name="preference_file_key">donateKey</string>
+    <string name="channel_id">channel_id</string>
+    <string name="whats_app_contact">WhatsApp号码：+918239199344</string>
+    <string name="instagram_id">Instagram id : @shyamswamibihari</string>
+
+    <string name="r1">ca-app-pub-2563796576069532/3748910658</string>
+    <string name="r2">ca-app-pub-2563796576069532/7257744978</string>
+    <string name="r3">ca-app-pub-2563796576069532/6408408175</string>
+    <string name="r4">ca-app-pub-2563796576069532/8926049867</string>
+
+    <string name="i1">ca-app-pub-2563796576069532/3399101453</string>
+    <string name="i2">ca-app-pub-2563796576069532/5642121417</string>
+    <string name="i3">ca-app-pub-2563796576069532/6655109744</string>
+    <string name="i4">ca-app-pub-2563796576069532/9828067997</string>
+    <string name="i5">ca-app-pub-2563796576069532/1183291213</string>
+    <string name="i6">ca-app-pub-2563796576069532/6463538052</string>
+    <string name="i7">ca-app-pub-2563796576069532/4164677771</string>
+
+    <string name="device_id">RCKMPEC50040424</string>
+    <string name="database_unsubscribe_key">Unsubscribe Count</string>
+    <string name="donate_key">Donate Key</string>
+    <string name="donate_desc_key">Donate Description</string>
+    <string name="donate_pic_key">donate pic</string>
+    <string name="donator">donator</string>
+    <string name="donated_list_key">Donated List</string>
+    <string name="nav_header_title">频道标题</string>
+    <string name="nav_header_subtitle">频道说明</string>
+    <string name="action_settings">登出</string>
+    <string name="share_via">分享使用</string>
+    <string name="ok_bt">好</string>
+    <string name="donate_us">捐赠我们！</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.sanshy.unsubscribeall</string>
+    <string name="send_feedback">发送反馈</string>
+    <string name="close_bt">关</string>
+    <string name="reset_title">重置应用！</string>
+    <string name="reset_msg_">所有数据将被清除，应用程序将关闭。</string>
+    <string name="unsubscribe_all">全部取消订阅</string>
+    <string name="install_pro_">安装</string>
+    <string name="reward_video_dialog_title">看视频！</string>
+    <string name="reward_video_request">要在一个页面中取消订阅所有内容，您需要观看视频。</string>
+    <string name="unsubscribe_name">退订！</string>
+    <string name="pro_request_msg">您将取消订阅全部仅属于此页</string>
+    <string name="pro_request_msg_2">要从您的频道取消订阅，您必须捐赠。$1.99</string>
+    <string name="unsubscribe_process_dialog">取消订阅处理…</string>
+    <string name="fatching_list_dialog">正在获取列表…</string>
+    <string name="calling_youtube_api_dialog">致电YouTube数据API …</string>
+    <string name="unsubscribe_all_button">退订全部：</string>
+    <string name="page_number_toast">页码：</string>
+    <string name="no_list_found">找不到列表。</string>
+    <string name="restart_request">请重新启动应用程序！</string>
+    <string name="sure_text">当然！</string>
+    <string name="clear_all_warning_">您确定要清除您的YouTube帐户中的所有订阅者。</string>
+    <string name="this_page_text_">这一页</string>
+    <string name="unsubscribe_done">全部取消订阅完成！</string>
+    <string name="share_text">立即从Youtube取消订阅不需要的频道\\n</string>
+    <string name="download_now">现在下载！\\n</string>
+    <string name="feedback_request">发送给我们反馈，希望你在这个应用程序\\n</string>
+
+    <string name="bank_name">Bank Name : Union Bank of India\n</string>
+    <string name="ac_holder_name">A/c Holder Name : Shyam Bihari Swami\n</string>
+    <string name="ac_number">A/c No. : 309902010109420\n</string>
+    <string name="ifsc_code">IFSC : UBIN0530999\n</string>
+    <string name="swift_code">Swift Code : SBININBBOJP\n</string>
+    <string name="unsubscribe_home">取消订阅主页</string>
+    <string name="reset_now">立即重置</string>
+    <string name="coming_soon">快来了…</string>
+    <string name="communicate">通信</string>
+    <string name="share">分享</string>
+    <string name="donate">捐</string>
+    <string name="unsubs">退订</string>
+</resources>

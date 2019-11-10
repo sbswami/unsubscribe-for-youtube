@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unsubscribe+</string>
+    <string name="no_list_found">No se encontró ninguna lista.</string>
+    <string name="restart_request">Por favor reinicie la aplicación!</string>
+    <string name="sure_text">¡Por supuesto!</string>
+    <string name="clear_all_warning_">Está seguro de que quiere borrar a todos los suscriptores de su cuenta de YouTube.</string>
+    <string name="this_page_text_">Esta página</string>
+    <string name="unsubscribe_done">¡Todos cancela la suscripción!</string>
+    <string name="page_number_toast">Número de página :</string>
+    <string name="unsubscribe_all_button">Darse de baja todos:</string>
+    <string name="calling_youtube_api_dialog">Llamando a la API de datos de YouTube …</string>
+    <string name="fatching_list_dialog">Obteniendo lista …</string>
+    <string name="unsubscribe_process_dialog">Darse de baja del procesamiento …</string>
+    <string name="pro_request_msg_2">Para anular la suscripción a todo desde su canal, debe donar. $ 1.99</string>
+    <string name="pro_request_msg">Cancelarás la suscripción todos pertenecen solo a esta página</string>
+    <string name="unsubscribe_name">¡Darse de baja!</string>
+    <string name="reward_video_request">Para anular la suscripción a todo en una página, necesita ver el video.</string>
+    <string name="reward_video_dialog_title">¡Ver video!</string>
+    <string name="install_pro_">Instalar Pro</string>
+    <string name="unsubscribe_all">Darse de baja todos</string>
+    <string name="reset_msg_">Todos los datos serán borrados y la aplicación se cerrará.</string>
+    <string name="reset_title">Restablecer la aplicación!</string>
+    <string name="close_bt">Cerca</string>
+    <string name="feedback_request">Envíenos sus comentarios que lo deseen en esta aplicación \n</string>
+    <string name="send_feedback">Enviar comentarios</string>
+    <string name="download_now">¡Descargar ahora!\n</string>
+    <string name="share_text">Anular la suscripción de canales no deseados ahora desde Youtube con un solo clic.\n</string>
+    <string name="donate_us">Donarnos!</string>
+    <string name="ok_bt">DE ACUERDO</string>
+    <string name="share_via">Compartir vía</string>
+    <string name="action_settings">Desconectar</string>
+    <string name="nav_header_subtitle">Descripción del canal</string>
+    <string name="nav_header_title">Título del canal</string>
+    <string name="bank_name">Nombre del banco: Union Bank of India\n</string>
+    <string name="ac_holder_name">Nombre del titular del A / c: Shyam Bihari Swami\n</string>
+    <string name="ac_number">A / c No.: 309902010109420\n</string>
+    <string name="ifsc_code">"IFSC : UBIN0530999 \n"</string>
+    <string name="swift_code">"Swift Code : SBININBBOJP \n"</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_unsubscribe_all">UnsubscribeAll</string>
+    <string name="unsubs">¡Darse de baja</string>
+    <string name="preference_file_key">donateKey</string>
+    <string name="channel_id">channel_id</string>
+    <string name="whats_app_contact">WhatsApp Number : +918239199344</string>
+    <string name="instagram_id">Instagram id : @shyamswamibihari</string>
+
+    <string name="r1">ca-app-pub-2563796576069532/3748910658</string>
+    <string name="r2">ca-app-pub-2563796576069532/7257744978</string>
+    <string name="r3">ca-app-pub-2563796576069532/6408408175</string>
+    <string name="r4">ca-app-pub-2563796576069532/8926049867</string>
+
+    <string name="i1">ca-app-pub-2563796576069532/3399101453</string>
+    <string name="i2">ca-app-pub-2563796576069532/5642121417</string>
+    <string name="i3">ca-app-pub-2563796576069532/6655109744</string>
+    <string name="i4">ca-app-pub-2563796576069532/9828067997</string>
+    <string name="i5">ca-app-pub-2563796576069532/1183291213</string>
+    <string name="i6">ca-app-pub-2563796576069532/6463538052</string>
+    <string name="i7">ca-app-pub-2563796576069532/4164677771</string>
+
+    <string name="device_id">RCKMPEC50040424</string>
+    <string name="database_unsubscribe_key">Unsubscribe Count</string>
+    <string name="donate_key">Donate Key</string>
+    <string name="donate_desc_key">Donate Description</string>
+    <string name="donate_pic_key">donate pic</string>
+    <string name="donator">donator</string>
+    <string name="donated_list_key">Donated List</string>
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.sanshy.unsubscribeall</string>
+    <string name="coming_soon">Próximamente…</string>
+    <string name="communicate">Comunicar</string>
+    <string name="share">Compartir</string>
+    <string name="donate">Donar</string>
+    <string name="reset_now">Restablecer ahora</string>
+    <string name="unsubscribe_home">Anular suscripción</string>
+
+</resources>
